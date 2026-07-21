@@ -7,7 +7,7 @@ print("Hello, World!")
 name = "Thabiso"
 print(name)
 
-# Making our code interactive
+# Making code interactive
 
 user_name = input("What is your name? ")
 print(f"Greetings, {user_name}!")
